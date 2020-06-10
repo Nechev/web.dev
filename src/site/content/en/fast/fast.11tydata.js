@@ -7,7 +7,7 @@ module.exports = {
     slug: 'fast',
     cover: '/images/collections/fast.svg',
     title: 'Fast load times',
-    updated: 'May 24, 2018',
+    updated: 'June 10, 2020',
     description: 'Guarantee your site loads quickly to avoid user drop off.',
     overview: `When you're building a modern web experience, it's important to
     measure, optimize, and monitor if you're to get fast and stay fast.
@@ -64,6 +64,7 @@ module.exports = {
           'remove-unused-code',
           'reduce-network-payloads-using-text-compression',
           'serve-modern-code-to-modern-browsers',
+          'commonjs-larger-bundles',
         ],
       },
       {
